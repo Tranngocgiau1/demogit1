@@ -14,7 +14,7 @@ int main() {
     int n;
     cout << "Nhap n: ";
     cin >> n;
-
+ffff
     int result = tongBinhPhuong(n);
     cout << "Tong binh phuong tu 1 den " << n << " la: " << result << std::endl;
 
